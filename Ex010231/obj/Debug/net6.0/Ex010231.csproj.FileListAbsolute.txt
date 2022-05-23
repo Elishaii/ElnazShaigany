@@ -1,0 +1,15 @@
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.csproj.AssemblyReference.cache
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.AssemblyInfoInputs.cache
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.AssemblyInfo.cs
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.csproj.CoreCompileInputs.cache
+C:\Users\Elnaz\desktop\c#\Ex010231\bin\Debug\net6.0\Ex010231.exe
+C:\Users\Elnaz\desktop\c#\Ex010231\bin\Debug\net6.0\Ex010231.deps.json
+C:\Users\Elnaz\desktop\c#\Ex010231\bin\Debug\net6.0\Ex010231.runtimeconfig.json
+C:\Users\Elnaz\desktop\c#\Ex010231\bin\Debug\net6.0\Ex010231.dll
+C:\Users\Elnaz\desktop\c#\Ex010231\bin\Debug\net6.0\Ex010231.pdb
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.dll
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\refint\Ex010231.dll
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.pdb
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\Ex010231.genruntimeconfig.cache
+C:\Users\Elnaz\desktop\c#\Ex010231\obj\Debug\net6.0\ref\Ex010231.dll
