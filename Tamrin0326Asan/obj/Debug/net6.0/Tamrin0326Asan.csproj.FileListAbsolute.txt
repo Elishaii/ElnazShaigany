@@ -1,0 +1,15 @@
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\bin\Debug\net6.0\Tamrin0326Asan.exe
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\bin\Debug\net6.0\Tamrin0326Asan.deps.json
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\bin\Debug\net6.0\Tamrin0326Asan.runtimeconfig.json
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\bin\Debug\net6.0\Tamrin0326Asan.dll
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\bin\Debug\net6.0\Tamrin0326Asan.pdb
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.csproj.AssemblyReference.cache
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.AssemblyInfoInputs.cache
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.AssemblyInfo.cs
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.csproj.CoreCompileInputs.cache
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.dll
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\refint\Tamrin0326Asan.dll
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.pdb
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\Tamrin0326Asan.genruntimeconfig.cache
+C:\Users\Kando\desktop\c#\Tamrin0326Asan\obj\Debug\net6.0\ref\Tamrin0326Asan.dll
