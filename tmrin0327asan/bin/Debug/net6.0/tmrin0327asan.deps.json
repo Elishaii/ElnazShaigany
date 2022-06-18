@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tmrin0327asan/1.0.0": {
+        "runtime": {
+          "tmrin0327asan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tmrin0327asan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

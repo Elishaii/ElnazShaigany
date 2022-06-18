@@ -1,0 +1,15 @@
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.csproj.AssemblyReference.cache
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.AssemblyInfoInputs.cache
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.AssemblyInfo.cs
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.csproj.CoreCompileInputs.cache
+C:\Users\Kando\desktop\c#\tmrin0327asan\bin\Debug\net6.0\tmrin0327asan.exe
+C:\Users\Kando\desktop\c#\tmrin0327asan\bin\Debug\net6.0\tmrin0327asan.deps.json
+C:\Users\Kando\desktop\c#\tmrin0327asan\bin\Debug\net6.0\tmrin0327asan.runtimeconfig.json
+C:\Users\Kando\desktop\c#\tmrin0327asan\bin\Debug\net6.0\tmrin0327asan.dll
+C:\Users\Kando\desktop\c#\tmrin0327asan\bin\Debug\net6.0\tmrin0327asan.pdb
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.dll
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\refint\tmrin0327asan.dll
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.pdb
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\tmrin0327asan.genruntimeconfig.cache
+C:\Users\Kando\desktop\c#\tmrin0327asan\obj\Debug\net6.0\ref\tmrin0327asan.dll
